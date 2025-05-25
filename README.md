@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm [Your Name]
 
-![Profile Gif](https://media.giphy.com/media/your-gif-url/giphy.gif)
+![Profile Gif](https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif)
 
 ## 🚀 About Me
 
