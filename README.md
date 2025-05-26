@@ -34,13 +34,11 @@
 
 # 📊 GitHub Stats:
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=JOSU10xD&theme=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JOSU10xD&show_icons=true&theme=onedark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JOSU10xD&show_icons=true&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JOSU10xD&theme=onedark&hide_border=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JOSU10xD&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JOSU10xD&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JOSU10xD&theme=onedark&layout=compact&hide_border=true)
 
 ---
 
