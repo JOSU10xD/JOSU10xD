@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm Nevil Biju
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand"/> , I'm Nevil Biju from Kerala, India
 
 ![Profile Gif](https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif) 
 
@@ -8,9 +8,9 @@
 ## 💫 About Me
 
 - 👨‍💻 Software & Web Developer from Kerala, India
-- ☁️ Exploring cloud development alongside web technologies
-- 🎓 B.Tech in Information Technology (2022–2026)
-- 🚀 Quick learner focused on delivering solid, maintainable code
+- 🎓 Working towards a B.Tech in Information Technology (2022–2026)
+- ☁️ Building reliable applications and exploring cloud services  
+- 🚀 Quick to adopt new tools and practices
 
 ## 🌐 Connect with Me
 
@@ -34,8 +34,15 @@
 
 ## 📊 GitHub Stats
 
-![Nevil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevil-biju&show_icons=true&theme=default)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=JOSU10xD&theme=github)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nevil-biju&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JOSU10xD&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nevil-biju&layout=compact&theme=default)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JOSU10xD&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JOSU10xD&layout=compact&hide_border=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=JOSU10xD&icon=0&color=3)](https://visitcount.itsvg.in)
+
