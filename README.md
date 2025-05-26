@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=JOSU10xD&theme=github)
 
