@@ -36,7 +36,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JOSU10xD&show_icons=true&theme=onedark&hide_border=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JOSU10xD&theme=onedark&hide_border=true)
+[![GitHub Streak](https://streak-stats.vercel.app?user=JOSU10xD&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JOSU10xD&theme=onedark&layout=compact&hide_border=true)
 
