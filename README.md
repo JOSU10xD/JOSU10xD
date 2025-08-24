@@ -13,6 +13,7 @@
 - 🚀 Quick to adopt new tools and practices
 
 ## 🌐 Connect with Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Portfolio-0e76a8?style=for-the-badge&logo=googlesitekit&logoColor=white)](https://josu10xd.github.io/josu-portfolio)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nevil-biju/)
 
