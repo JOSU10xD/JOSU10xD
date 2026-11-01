@@ -1,6 +1,6 @@
 <!-- Nevil Biju · GitHub profile README. All visual assets are local. -->
 <div align="center">
-  <img src="./assets/hero-pixel-live.gif" alt="Nevil Biju, software developer and product builder from Kerala, India, in an animated pixel-inspired nighttime workshop" width="100%" />
+  <img src="./assets/hero-pixel-cyan-v5.gif" alt="Nevil Biju | Animated cyan pixel-art developer workshop" width="100%" />
 </div>
 
 <br/>
