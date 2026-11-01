@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="./assets/build-log-motion.gif" width="100%" alt="Animated workshop build log progressing through research, interface design, implementation and refinement" />
+
 
 <br/>
 
