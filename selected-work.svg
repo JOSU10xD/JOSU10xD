@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="84" viewBox="0 0 1400 84" role="img">
+<defs>
+ <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10202c"/><stop offset="1" stop-color="#0b131d"/></linearGradient>
+ <linearGradient id="warm" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f5ca90"/><stop offset="1" stop-color="#e49f65"/></linearGradient>
+ <linearGradient id="cool" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8cc3ce"/><stop offset="1" stop-color="#4c819b"/></linearGradient>
+ <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1" fill="#547185" opacity=".18"/></pattern>
+</defs>
+
+<rect x="0" y="0" width="1400" height="84" fill="#0d1720"/><rect x="2" y="10" width="6" height="52" fill="#e8ad72"/><text x="27" y="51" fill="#f6f2e9" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="34" font-weight="750" letter-spacing="2" >SELECTED WORK</text><text x="1019" y="48" fill="#88a5b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="500" letter-spacing="2" >SHIPPED  /  PUBLIC</text><line x1="0" y1="82" x2="1400" y2="82" stroke="#344958" stroke-width="2"/>
+</svg>

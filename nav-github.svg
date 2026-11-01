@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="235" height="66" viewBox="0 0 235 66" role="img">
+<defs>
+ <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10202c"/><stop offset="1" stop-color="#0b131d"/></linearGradient>
+ <linearGradient id="warm" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f5ca90"/><stop offset="1" stop-color="#e49f65"/></linearGradient>
+ <linearGradient id="cool" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8cc3ce"/><stop offset="1" stop-color="#4c819b"/></linearGradient>
+ <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1" fill="#547185" opacity=".18"/></pattern>
+</defs>
+
+<rect x="1.5" y="1.5" width="232" height="63" rx="9" fill="#152330" stroke="#3a4c5c" stroke-width="2"/><text x="20" y="41" fill="#ecf0ec" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="21" font-weight="700" letter-spacing="1" >PUBLIC CODE</text><text x="195" y="41" fill="#ecf0ec" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="28" font-weight="600" letter-spacing="0" >→</text>
+</svg>
