@@ -13,9 +13,7 @@
   <a href="mailto:nevilbiju9497@gmail.com"><img src="./assets/nav-email.svg" alt="Send Nevil an email" height="43" /></a>
 </div>
 
-<br/>
 
-<img src="./assets/build-log-motion.gif" width="100%" alt="Animated workshop build log progressing through research, interface design, implementation and refinement" />
 
 <br/>
 
