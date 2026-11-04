@@ -14,7 +14,7 @@
 </div>
 
 
-
+<br>
 <br/>
 
 <img src="./assets/workshop-loop.gif" width="100%" alt="Animated workshop terminal cycling between building products, learning through making, and designing with intention" />
